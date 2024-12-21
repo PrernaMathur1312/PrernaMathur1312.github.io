@@ -1,3 +1,4 @@
+---
 - title: General Information
   type: map
   contents:
@@ -7,40 +8,28 @@
       value: 13th December 2001
     - name: Languages
       value: English, Hindi, and French
-
 - title: Education
   type: time_table
   contents:
     - title: MSc.in Psychology
-      institution: University of Nottingham, United Kingdom 
+      institution: University of Nottingham, United Kingdom
       year: 2023
-    
-    - title: B.A in Journalism, Psychology, and English
+    - title: B.A. in Journalism, Psychology, and English
       institution: Christ University, India
       year: 2022
-      
-
 - title: Experience
   type: time_table
   contents:
-    - title: Research Associate 
+    - title: Research Associate
       institution: University of Birmingham, UK
       year: April 2024 - October 2025
-      
     - title: Data Annotator
-      institution: Blueskeye AI, UK 
+      institution: Blueskeye AI, UK
       year: October 2023 – December 2023
       description:
-        - I was responsible for accurately labelling video data by understanding apparent emotional
-behaviours of people using Nova. 
-
+        - I was responsible for accurately labelling video data by understanding the apparent emotional behaviours of people using Nova.
     - title: Tutor
       institution: Teach For India, Ahmedabad, India.
       year: July 2021 - October 2021
-      description: 
-        - I taught English and Maths to 9th-grade students belonging to marginalised communities
-on Zoom calls during the pandemic. There was a significant increase in the overall grades of
-these students
-    
-
-
+      description:
+        - I taught English and Maths to 9th-grade students belonging to marginalised communities on Zoom calls during the pandemic. There was a significant increase in the overall grades of these students
