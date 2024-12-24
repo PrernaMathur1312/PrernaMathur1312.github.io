@@ -7,16 +7,16 @@
     - name: Date of Birth
       value: 13th December 2001
     - name: Languages
-      value: English, Hindi, and French
+      value: English, Hindi, French
 - title: Education
   type: time_table
   contents:
     - title: MSc.in Psychology
       institution: University of Nottingham, United Kingdom
-      year: 2023
+      year: 2023 - 2024
     - title: B.A. in Journalism, Psychology, and English
       institution: Christ University, India
-      year: 2022
+      year: 2019 - 2022
 - title: Experience
   type: time_table
   contents:
